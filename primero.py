@@ -96,4 +96,5 @@ print(lista1)
 palabra = "amigos"
 print(palabra[0])
 print(len(palabra))
-
+palabra2 = "programacion"
+print(len(palabra2))
