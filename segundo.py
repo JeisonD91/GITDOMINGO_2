@@ -42,7 +42,7 @@ print(conjunto2)
 """
 
 carros = {"Mazda", "renault", "Chevrolet"}
-colores = {"Rojo", "Verde", "Mazda"} 
+colores = {"Rojo", "Verde", "Mazda", "Nissan"} 
 print(carros.difference(colores)) #diferencia, el unico comun es mazda, ese sale del conjunto
 print(carros.intersection(colores)) # solo me imprime el elemento común
 print(carros.issubset(colores))
