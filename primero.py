@@ -90,8 +90,8 @@ print(frutas)
 #lista1.append(precio)
 #print(lista1)
 #nombre = input("ingrese el nombre: ")
-#lista1.append(nombre)
-#print(lista1)
+lista1.append(nombre)
+print(lista1)
 
 palabra = "amigos"
 print(palabra[0])
