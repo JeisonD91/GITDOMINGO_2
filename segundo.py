@@ -48,5 +48,5 @@ print(carros.intersection(colores)) # solo me imprime el elemento común
 print(carros.issubset(colores))
 print(colores.issuperset(carros))
 
-#carros.remove("Mazda")
+carros.remove("Mazda")
 print(carros.union(colores))
